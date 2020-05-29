@@ -4,7 +4,6 @@ import Link from 'next/link'
 import Date from '../components/date'
 import TechStack from '../components/TechStack.js'
 import utilStyles from '../styles/utils.module.css'
-import indexStyles from '../styles/index.module.css'
 import { siteTitle } from '../info.js'
 import { getAllPostData, sortByDate, filenameToId } from '../lib/posts.js'
 
