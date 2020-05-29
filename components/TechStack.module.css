@@ -1,0 +1,28 @@
+.tech-cont {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.tech-item {
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tech-logo {
+  width: 75px;
+  height: 75px;
+  background-size: contain;
+}
+
+.tech-name {
+  font-size: 20px;
+  padding: 2px;
+}
+
+.accounts {
+  display: flex;
+  align-items: center;
+}
