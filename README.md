@@ -1,3 +1,3 @@
 # Next.js Blog by Scoder12
 
-View it here: [https://blog.scoder12.repl.co](https://blog.scoder12.repl.co)
+Has been super-seded by https://github.com/Scoder12/scoder12.ml
