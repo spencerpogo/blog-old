@@ -9,6 +9,6 @@ export const tech = {
   NodeJS: "nodejs.png",
   Web: "web.png",
   React: "react.png",
-  "Next.js": "nextjs.png",
+  "Next.js": "nextjs.svg",
   "C / C++": "cpp.svg",
 };
